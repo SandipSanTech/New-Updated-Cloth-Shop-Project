@@ -505,7 +505,7 @@ public class Cloth2View extends FrameView {
         profitp.setLayout(profitpLayout);
         profitpLayout.setHorizontalGroup(
             profitpLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 825, Short.MAX_VALUE)
+            .addGap(0, 1140, Short.MAX_VALUE)
         );
         profitpLayout.setVerticalGroup(
             profitpLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -521,7 +521,7 @@ public class Cloth2View extends FrameView {
         purchasep.setLayout(purchasepLayout);
         purchasepLayout.setHorizontalGroup(
             purchasepLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 825, Short.MAX_VALUE)
+            .addGap(0, 1140, Short.MAX_VALUE)
         );
         purchasepLayout.setVerticalGroup(
             purchasepLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -537,7 +537,7 @@ public class Cloth2View extends FrameView {
         userp.setLayout(userpLayout);
         userpLayout.setHorizontalGroup(
             userpLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 825, Short.MAX_VALUE)
+            .addGap(0, 1140, Short.MAX_VALUE)
         );
         userpLayout.setVerticalGroup(
             userpLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -713,7 +713,7 @@ public class Cloth2View extends FrameView {
         salep.setLayout(salepLayout);
         salepLayout.setHorizontalGroup(
             salepLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 825, Short.MAX_VALUE)
+            .addGap(0, 1140, Short.MAX_VALUE)
         );
         salepLayout.setVerticalGroup(
             salepLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -783,7 +783,7 @@ public class Cloth2View extends FrameView {
                     .addGroup(supplierLayout.createSequentialGroup()
                         .addGap(311, 311, 311)
                         .addComponent(jLabel15)))
-                .addContainerGap(186, Short.MAX_VALUE))
+                .addContainerGap(501, Short.MAX_VALUE))
         );
         supplierLayout.setVerticalGroup(
             supplierLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -868,7 +868,7 @@ public class Cloth2View extends FrameView {
                     .addGroup(employeeLayout.createSequentialGroup()
                         .addGap(335, 335, 335)
                         .addComponent(jLabel20)))
-                .addContainerGap(120, Short.MAX_VALUE))
+                .addContainerGap(435, Short.MAX_VALUE))
         );
         employeeLayout.setVerticalGroup(
             employeeLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -940,7 +940,7 @@ public class Cloth2View extends FrameView {
                             .addGroup(productLayout.createSequentialGroup()
                                 .addGap(10, 10, 10)
                                 .addComponent(jLabel27)))))
-                .addContainerGap(233, Short.MAX_VALUE))
+                .addContainerGap(548, Short.MAX_VALUE))
         );
         productLayout.setVerticalGroup(
             productLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1398,20 +1398,15 @@ public class Cloth2View extends FrameView {
         jPanel8.setName("jPanel8"); // NOI18N
         jPanel8.setOpaque(false);
 
-        jButton32.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton32.setText(resourceMap.getString("jButton32.text")); // NOI18N
         jButton32.setName("jButton32"); // NOI18N
 
-        jButton33.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton33.setText(resourceMap.getString("jButton33.text")); // NOI18N
         jButton33.setName("jButton33"); // NOI18N
 
-        jButton34.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton34.setText(resourceMap.getString("jButton34.text")); // NOI18N
         jButton34.setName("jButton34"); // NOI18N
 
-        jButton35.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
-        jButton35.setText(resourceMap.getString("jButton35.text")); // NOI18N
         jButton35.setName("jButton35"); // NOI18N
 
         javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
@@ -1420,25 +1415,27 @@ public class Cloth2View extends FrameView {
             jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel8Layout.createSequentialGroup()
                 .addGap(60, 60, 60)
-                .addComponent(jButton32)
-                .addGap(79, 79, 79)
-                .addComponent(jButton33)
-                .addGap(88, 88, 88)
-                .addComponent(jButton34)
-                .addGap(122, 122, 122)
+                .addComponent(jButton32, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jButton33, javax.swing.GroupLayout.PREFERRED_SIZE, 115, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jButton34, javax.swing.GroupLayout.PREFERRED_SIZE, 76, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(109, 109, 109)
                 .addComponent(jButton35)
-                .addContainerGap(131, Short.MAX_VALUE))
+                .addContainerGap(267, Short.MAX_VALUE))
         );
         jPanel8Layout.setVerticalGroup(
             jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel8Layout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jButton32)
-                    .addComponent(jButton33)
-                    .addComponent(jButton34)
-                    .addComponent(jButton35))
-                .addContainerGap(26, Short.MAX_VALUE))
+                .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jButton34, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jButton33, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(jButton32, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addGroup(jPanel8Layout.createSequentialGroup()
+                        .addComponent(jButton35)
+                        .addGap(0, 37, Short.MAX_VALUE)))
+                .addContainerGap())
         );
 
         AddSuplier.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 430, 780, 70));
