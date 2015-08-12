@@ -1398,15 +1398,19 @@ public class Cloth2View extends FrameView {
         jPanel8.setName("jPanel8"); // NOI18N
         jPanel8.setOpaque(false);
 
+        jButton32.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton32.setText(resourceMap.getString("jButton32.text")); // NOI18N
         jButton32.setName("jButton32"); // NOI18N
 
+        jButton33.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton33.setText(resourceMap.getString("jButton33.text")); // NOI18N
         jButton33.setName("jButton33"); // NOI18N
 
+        jButton34.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton34.setText(resourceMap.getString("jButton34.text")); // NOI18N
         jButton34.setName("jButton34"); // NOI18N
 
+        jButton35.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
         jButton35.setText(resourceMap.getString("jButton35.text")); // NOI18N
         jButton35.setName("jButton35"); // NOI18N
 
@@ -1423,7 +1427,7 @@ public class Cloth2View extends FrameView {
                 .addComponent(jButton34)
                 .addGap(122, 122, 122)
                 .addComponent(jButton35)
-                .addContainerGap(201, Short.MAX_VALUE))
+                .addContainerGap(131, Short.MAX_VALUE))
         );
         jPanel8Layout.setVerticalGroup(
             jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1434,7 +1438,7 @@ public class Cloth2View extends FrameView {
                     .addComponent(jButton33)
                     .addComponent(jButton34)
                     .addComponent(jButton35))
-                .addContainerGap(34, Short.MAX_VALUE))
+                .addContainerGap(26, Short.MAX_VALUE))
         );
 
         AddSuplier.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 430, 780, 70));
