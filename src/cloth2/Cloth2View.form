@@ -2362,9 +2362,6 @@
                     <Component class="javax.swing.JButton" name="jButton32">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton32.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton32.text"/>
                         <Property name="name" type="java.lang.String" value="jButton32" noResource="true"/>
                         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
@@ -2375,9 +2372,6 @@
                     <Component class="javax.swing.JButton" name="jButton33">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton33.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton33.text"/>
                         <Property name="name" type="java.lang.String" value="jButton33" noResource="true"/>
                         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
@@ -2388,9 +2382,6 @@
                     <Component class="javax.swing.JButton" name="jButton34">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton34.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton34.text"/>
                         <Property name="name" type="java.lang.String" value="jButton34" noResource="true"/>
                         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
@@ -2401,9 +2392,6 @@
                     <Component class="javax.swing.JButton" name="jButton35">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton35.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton35.text"/>
                         <Property name="name" type="java.lang.String" value="jButton35" noResource="true"/>
                         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
@@ -2414,9 +2402,6 @@
                     <Component class="javax.swing.JButton" name="jButton36">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton36.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton36.text"/>
                         <Property name="name" type="java.lang.String" value="jButton36" noResource="true"/>
                       </Properties>
@@ -2424,9 +2409,6 @@
                     <Component class="javax.swing.JButton" name="jButton37">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton37.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton37.text"/>
                         <Property name="name" type="java.lang.String" value="jButton37" noResource="true"/>
                         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
@@ -2437,9 +2419,6 @@
                     <Component class="javax.swing.JButton" name="jButton38">
                       <Properties>
                         <Property name="font" type="java.awt.Font" resourceKey="jButton38.font"/>
-                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                          <Image iconType="0" name="null"/>
-                        </Property>
                         <Property name="text" type="java.lang.String" resourceKey="jButton38.text"/>
                         <Property name="name" type="java.lang.String" value="jButton38" noResource="true"/>
                         <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">

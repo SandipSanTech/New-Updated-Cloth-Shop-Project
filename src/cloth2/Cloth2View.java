@@ -1564,42 +1564,35 @@ public class Cloth2View extends FrameView {
         jPanel8.setPreferredSize(new java.awt.Dimension(35, 50));
 
         jButton32.setFont(resourceMap.getFont("jButton32.font")); // NOI18N
-        jButton32.setIcon(null);
         jButton32.setText(resourceMap.getString("jButton32.text")); // NOI18N
         jButton32.setName("jButton32"); // NOI18N
         jButton32.setPreferredSize(new java.awt.Dimension(35, 50));
 
         jButton33.setFont(resourceMap.getFont("jButton33.font")); // NOI18N
-        jButton33.setIcon(null);
         jButton33.setText(resourceMap.getString("jButton33.text")); // NOI18N
         jButton33.setName("jButton33"); // NOI18N
         jButton33.setPreferredSize(new java.awt.Dimension(35, 50));
 
         jButton34.setFont(resourceMap.getFont("jButton34.font")); // NOI18N
-        jButton34.setIcon(null);
         jButton34.setText(resourceMap.getString("jButton34.text")); // NOI18N
         jButton34.setName("jButton34"); // NOI18N
         jButton34.setPreferredSize(new java.awt.Dimension(35, 50));
 
         jButton35.setFont(resourceMap.getFont("jButton35.font")); // NOI18N
-        jButton35.setIcon(null);
         jButton35.setText(resourceMap.getString("jButton35.text")); // NOI18N
         jButton35.setName("jButton35"); // NOI18N
         jButton35.setPreferredSize(new java.awt.Dimension(35, 50));
 
         jButton36.setFont(resourceMap.getFont("jButton36.font")); // NOI18N
-        jButton36.setIcon(null);
         jButton36.setText(resourceMap.getString("jButton36.text")); // NOI18N
         jButton36.setName("jButton36"); // NOI18N
 
         jButton37.setFont(resourceMap.getFont("jButton37.font")); // NOI18N
-        jButton37.setIcon(null);
         jButton37.setText(resourceMap.getString("jButton37.text")); // NOI18N
         jButton37.setName("jButton37"); // NOI18N
         jButton37.setPreferredSize(new java.awt.Dimension(35, 50));
 
         jButton38.setFont(resourceMap.getFont("jButton38.font")); // NOI18N
-        jButton38.setIcon(null);
         jButton38.setText(resourceMap.getString("jButton38.text")); // NOI18N
         jButton38.setName("jButton38"); // NOI18N
         jButton38.setPreferredSize(new java.awt.Dimension(35, 50));
